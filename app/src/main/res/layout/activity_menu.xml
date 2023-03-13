@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity">
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:fontFamily="@font/muli_bold"
+        android:paddingTop="15dp"
+        android:background="#FF631E"/>
+
+    <TextView
+        android:id="@+id/explore"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF631E"
+        android:fontFamily="@font/muli_bold"
+        android:gravity="center"
+        android:paddingTop="15dp"
+        android:text="    Explore menu"
+        android:textSize="30dp" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tabMode="scrollable"
+        android:background="#FF631E"
+        android:layout_below="@+id/explore"
+        android:id="@+id/tabloyout"/>
+    <androidx.viewpager2.widget.ViewPager2
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tabloyout"
+        android:id="@+id/view"/>
+</RelativeLayout>

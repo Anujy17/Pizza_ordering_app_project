@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_cart.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_feedback.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_forget.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_help.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_home.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_introductory.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_login2.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_manage.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_notification.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_offers.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/activity_terms_condition.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/fragment_account.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/fragment_favourites.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/User/Desktop/project sem 5/pizza/pizza/app/src/main/res/layout/fragment_home.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/User/Documents/project sem 5/pizza/pizza/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/User/Documents/project sem 5/pizza/pizza/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/Documents/project sem 5/pizza/pizza/app/src/main/res/layout/activity_manage.xml" value="0.25" />
+        <entry key="..\:/Users/User/Documents/project sem 5/pizza/pizza/app/src/main/res/layout/activity_menu.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/User/Documents/project sem 5/pizza/pizza/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

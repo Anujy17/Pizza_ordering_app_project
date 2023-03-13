@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home"/>
+        <item
+            android:id="@+id/offers"
+            android:title="offers"/>
+
+
+
+        <item
+            android:id="@+id/order"
+            android:title="order history"/>
+
+        <item
+            android:id="@+id/favourites"
+            android:title="favourites"/>
+
+
+
+        <item
+            android:id="@+id/feeback"
+            android:title="Feedback"/>
+
+        <item
+            android:id="@+id/share"
+            android:title="Share"/>
+        <item
+            android:id="@+id/Terms"
+            android:title="Terms and condition"/>
+
+    </group>
+</menu>
